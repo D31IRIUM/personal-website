@@ -12745,7 +12745,7 @@ pre .code {
   align-items: center;
   -webkit-transition: all, 0.3s;
   transition: all, 0.3s;
-  font-family: 'Baloo Paaji', cursive;
+  font-family: system-ui, bold;
 }
 
 @media (prefers-reduced-motion: reduce) {
